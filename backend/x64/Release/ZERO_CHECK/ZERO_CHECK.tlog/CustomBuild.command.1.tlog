@@ -1,0 +1,10 @@
+^C:\PROJECTS\DOCKER-MONITOR\BACKEND\CMAKEFILES\202CBBA2D70DAD1ABA60A9FE5A5A0D5D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Projects/docker-monitor/backend -BC:/Projects/docker-monitor/backend --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Projects/docker-monitor/backend/DockerMonitor.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Projects/docker-monitor/build/CMakeFiles/docker_monitor.dir
+C:/Projects/docker-monitor/build/CMakeFiles/ALL_BUILD.dir
+C:/Projects/docker-monitor/build/CMakeFiles/ZERO_CHECK.dir

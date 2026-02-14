@@ -1,0 +1,5 @@
+# Ignore build folder (C++ compiled files)
+backend/build/
+
+# Ignore VSCode settings
+.vscode/

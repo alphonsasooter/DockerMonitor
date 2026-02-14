@@ -1,0 +1,92 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0b0f17;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: #1a1f2e;
+}
+
+header h1 {
+  font-size: 36px;
+  margin-bottom: 5px;
+}
+
+header .sub {
+  opacity: 0.7;
+}
+
+.about {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #141b2d;
+  border-radius: 12px;
+}
+
+.about h2 {
+  margin-top: 0;
+}
+
+.controls {
+  text-align: center;
+  margin: 20px 0;
+}
+
+button {
+  background: #2b6cff;
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.status {
+  margin: 10px 0;
+  opacity: 0.85;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 900px;
+  margin: 0 auto 40px auto;
+  padding: 0 20px;
+}
+
+.card {
+  background: #141b2d;
+  padding: 14px;
+  border-radius: 14px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.card p {
+  margin: 5px 0;
+  opacity: 0.85;
+  font-size: 14px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #1a1f2e;
+  opacity: 0.7;
+}

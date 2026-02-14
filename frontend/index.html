@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Docker Monitor</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header>
+    <h1>🐳 Docker Monitor</h1>
+    <p class="sub">View live containers running on your system</p>
+  </header>
+
+  <section class="about">
+    <h2>About This Project</h2>
+    <p>
+      This project is a simple Docker Monitor built in C++ backend with a frontend UI.
+      It displays your running containers in real-time and allows refreshing the list.
+    </p>
+    <p>
+      Backend API endpoint: <code>/api/containers</code>
+    </p>
+  </section>
+
+  <section class="controls">
+    <button id="refreshBtn">🔄 Refresh Containers</button>
+    <div id="status" class="status">Loading...</div>
+  </section>
+
+  <section class="list" id="list">
+    <!-- Containers will appear here -->
+  </section>
+
+  <footer>
+    <p>Made with ❤️ by Alphonsa | Demo Repo</p>
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>
