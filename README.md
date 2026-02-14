@@ -21,25 +21,6 @@
 
 </div>
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-  - [Windows Setup](#windows-installation)
-  - [Linux Setup](#linux-installation)
-- [Building the Project](#-building-the-project)
-- [Running the Application](#-running-the-application)
-- [API Documentation](#-api-documentation)
-- [Usage Guide](#-usage-guide)
-- [Configuration](#-configuration)
-- [Troubleshooting](#-troubleshooting)
-- [Development](#-development)
 
 ---
 
