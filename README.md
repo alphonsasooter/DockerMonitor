@@ -124,35 +124,6 @@ Perfect for developers, DevOps engineers, and anyone who needs to monitor Docker
 
 ---
 
-## 📁 Project Structure
-
-```
-docker-monitor/
-│
-├── backend/                          # C++ Backend Application
-│   ├── main.cpp                      # Main server file with routes
-│   ├── docker_client.hpp             # Docker API client header
-│   ├── docker_client.cpp             # Docker API client (Linux/Unix socket)
-│   ├── docker_client_windows.cpp     # Docker API client (Windows/TCP)
-│   ├── CMakeLists.txt                # Build configuration (Linux)
-│   └── CMakeLists_Windows.txt        # Build configuration (Windows)
-│
-├── frontend/                         # Web Frontend
-│   ├── index.html                    # Main HTML page
-│   ├── style.css                     # Styling and animations
-│   └── app.js                        # JavaScript logic and WebSocket
-│
-├── build.bat                         # Windows build script
-├── start_monitor.bat                 # Windows launcher script
-├── setup.sh                          # Linux setup script
-│
-├── README.md                         # This file
-├── WINDOWS_SETUP.md                  # Detailed Windows setup guide
-└── WINDOWS_QUICK_START.md            # Windows quick reference
-```
-
----
-
 ## 📦 Prerequisites
 
 ### Windows Prerequisites
