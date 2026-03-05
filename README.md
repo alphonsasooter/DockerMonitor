@@ -867,11 +867,14 @@ async function pauseContainer(id) {
 
 ## ⭐ Show Your Support
 
-If you find this project useful, please consider giving it a star!
+If you find this project useful, please consider giving it a star
+<p align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/docker-monitor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/docker-monitor?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/docker-monitor?style=social)
+<img src="https://img.shields.io/github/stars/alphonsasooter/DockerMonitor?style=for-the-badge&label=Stars"/>
+<img src="https://img.shields.io/github/forks/alphonsasooter/DockerMonitor?style=for-the-badge&label=Forks"/>
+<img src="https://img.shields.io/github/watchers/alphonsasooter/DockerMonitor?style=for-the-badge&label=Watchers"/>
+
+</p>
 
 **Built with ❤️ using C++ and modern web technologies**
 
