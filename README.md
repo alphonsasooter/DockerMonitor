@@ -851,15 +851,6 @@ async function pauseContainer(id) {
 - [libcurl Documentation](https://curl.se/libcurl/)
 - [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 
----
-
-## 🎓 Learning Resources
-
-- **Docker:** [https://docs.docker.com/](https://docs.docker.com/)
-- **C++ Best Practices:** [https://isocpp.org/](https://isocpp.org/)
-- **REST API Design:** [https://restfulapi.net/](https://restfulapi.net/)
-- **WebSocket Protocol:** [RFC 6455](https://datatracker.ietf.org/doc/html/rfc6455)
-- **Modern JavaScript:** [https://javascript.info/](https://javascript.info/)
 
 ---
 
