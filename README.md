@@ -845,12 +845,6 @@ async function pauseContainer(id) {
 - **Docker API** - Container management
 - **WebSocket** - Real-time communication
 
-### Resources
-
-- [Docker API Documentation](https://docs.docker.com/engine/api/)
-- [libcurl Documentation](https://curl.se/libcurl/)
-- [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-
 
 ---
 
