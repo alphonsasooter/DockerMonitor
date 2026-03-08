@@ -828,7 +828,6 @@ async function pauseContainer(id) {
 
 ---
 
-## 🙏 Credits
 
 ### Technologies Used
 
