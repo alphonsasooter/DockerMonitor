@@ -676,13 +676,6 @@ Statistics auto-update every 2s:
 </tr>
 </table>
 
-### Advanced Features
-
-- **Filter Containers**: Toggle "Show All" / "Show Running Only"
-- **Manual Refresh**: Click "🔄 Refresh" button
-- **Connection Status**: Green = Connected, Red = Disconnected
-- **Auto-reconnect**: WebSocket reconnects every 5s if disconnected
-
 ---
 
 ## ⚙️ Configuration
